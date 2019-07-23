@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">databindingrecyclerView</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="names">
+        <item>Johnny Depp</item>
+        <item> Al Pacino</item>
+        <item> Robert De Niro</item>
+        <item> Kevin Spacey</item>
+        <item> Denzel Washington</item>
+        <item> Russell Crowe</item>
+        <item> Brad Pitt</item>
+        <item> Angelina Jolie</item>
+        <item> Leonardo DiCaprio</item>
+        <item> Tom Cruise</item>
+        <item> John Travolta</item>
+        <item>Arnold Schwarzenegger</item>
+        <item> Sylvester Stallone</item>
+        <item> Kate Winslet</item>
+        <item> Christian Bale</item>
+        <item> Morgan Freeman</item>
+        <item> Keanu Reeves</item>
+        <item> Nicolas Cage</item>
+        <item> Hugh Jackman</item>
+        <item> Edward Norton</item>
+    </string-array>
+    <string-array name="emails">
+        <item>JohnnyDepp@gmail.com</item>
+        <item> AlPacino@gmail.com</item>
+        <item> RobertDeNiro@gmail.com</item>
+        <item> KevinSpacey@gmail.com</item>
+        <item> DenzelWashington@gmail.com</item>
+        <item> RussellCrowe@gmail.com</item>
+        <item> BradPitt@gmail.com</item>
+        <item> AngelinaJolie@gmail.com</item>
+        <item> LeonardoDiCaprio@gmail.com</item>
+        <item> TomCruise@gmail.com</item>
+        <item> JohnTravolta@gmail.com</item>
+        <item> ArnoldSchwarzenegger@gmail.com</item>
+        <item> SylvesterStallone@gmail.com</item>
+        <item> KateWinslet@gmail.com</item>
+        <item> ChristianBale@gmail.com</item>
+        <item> MorganFreeman@gmail.com</item>
+        <item> KeanuReeves@gmail.com</item>
+        <item> NicolasCage@gmail.com</item>
+        <item> HughJackman@gmail.com</item>
+        <item> EdwardNorton@gmail.com</item>
+    </string-array>
+</resources>
